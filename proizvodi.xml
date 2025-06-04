@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proizvodi>
+  <proizvod>
+    <naziv>Majica kratkih rukava</naziv>
+    <cijena>99.00</cijena>
+    <opis>Pamučna i udobna majica za svaki dan.</opis>
+    <slika>item1.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Traperice</naziv>
+    <cijena>199.99</cijena>
+    <opis>Plave traperice klasičnog kroja.</opis>
+    <slika>item2.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Tenisice</naziv>
+    <cijena>349.00</cijena>
+    <opis>Sportske tenisice za svakodnevnu uporabu.</opis>
+    <slika>item3.jpeg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Hoodie</naziv>
+    <cijena>249.00</cijena>
+    <opis>Topla dukserica za hladnije dane.</opis>
+    <slika>item4.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Ruksak</naziv>
+    <cijena>179.00</cijena>
+    <opis>Praktičan ruksak s više pretinaca.</opis>
+    <slika>item5.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Laptop torba</naziv>
+    <cijena>149.00</cijena>
+    <opis>Elegantna torba za laptop do 15.6”.</opis>
+    <slika>item6.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>USB stick 64GB</naziv>
+    <cijena>39.00</cijena>
+    <opis>Brzi USB 3.0 prijenos podataka.</opis>
+    <slika>item7.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Slušalice</naziv>
+    <cijena>89.00</cijena>
+    <opis>Bežične slušalice s mikrofonom.</opis>
+    <slika>item8.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Miš</naziv>
+    <cijena>59.00</cijena>
+    <opis>Optički USB miš za ured i dom.</opis>
+    <slika>item9.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Tipkovnica</naziv>
+    <cijena>119.00</cijena>
+    <opis>Tihi rad i ergonomski dizajn.</opis>
+    <slika>item10.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Pametna narukvica</naziv>
+    <cijena>199.00</cijena>
+    <opis>Praćenje koraka, pulsa i sna.</opis>
+    <slika>item11.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Monitor 24”</naziv>
+    <cijena>999.00</cijena>
+    <opis>Full HD IPS zaslon s tankim rubovima.</opis>
+    <slika>item12.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Torbica</naziv>
+    <cijena>129.00</cijena>
+    <opis>Kožna torbica s remenom preko ramena.</opis>
+    <slika>item13.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Novčanik</naziv>
+    <cijena>89.00</cijena>
+    <opis>Muški novčanik s više pretinaca za kartice.</opis>
+    <slika>item14.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Naočale za sunce</naziv>
+    <cijena>149.00</cijena>
+    <opis>Stakla s UV zaštitom i klasični dizajn.</opis>
+    <slika>item15.jpeg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Sat ručni</naziv>
+    <cijena>299.00</cijena>
+    <opis>Elegantni ručni sat s metalnim remenom.</opis>
+    <slika>item16.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Punjač</naziv>
+    <cijena>49.00</cijena>
+    <opis>USB-C punjač s funkcijom brzog punjenja.</opis>
+    <slika>item17.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Powerbank 10000mAh</naziv>
+    <cijena>139.00</cijena>
+    <opis>Prijenosna baterija za mobitele i tablete.</opis>
+    <slika>item18.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Gaming miš</naziv>
+    <cijena>169.00</cijena>
+    <opis>Miš s LED osvjetljenjem i DPI senzorom.</opis>
+    <slika>item19.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <naziv>Bežični zvučnik</naziv>
+    <cijena>189.00</cijena>
+    <opis>Kompaktan Bluetooth zvučnik s punjivom baterijom.</opis>
+    <slika>item20.jpg</slika>
+  </proizvod>
+</proizvodi>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+  <korisnik>
+    <korime>janko</korime>
+    <lozinka>12345</lozinka>
+  </korisnik>
+  <korisnik>
+    <korime>karlo</korime>
+    <lozinka>abcde</lozinka>
+  </korisnik>
+</korisnici>
